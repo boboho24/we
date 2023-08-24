@@ -1,0 +1,80 @@
+A. PENGERTIAN
+	Transformator merupakan alat listrik yang dapat memindahkan energi listrik dengan merubah tingkat tegangan dari suatu rangkaian listrik ke rangkaian listrik lain menggunakan prinsip induksi magnetik tanpa merubah frekuensi. Pada transformator, terdapat kumparan primer yang dihubungkan dengan sumber. Lalu, ada pula kumparan sekunder yang dihubungkan dengan beban. Perbandingan antara tegangan primer dan tegangan sekunder yang terjadi pada trafo berbanding lurus dengan perbandingan jumlah lilitan primer dan lilitan sekunder. Pada trafo yang ideal, jumlah daya listrik pada kumparan primer sama dengan jumlah daya listrik pada kumparan sekunder. 
+Pada jaringan Transmisi sangat dibutuhkan Transformator dikarenakan:
+	1. Mengurangi rugi-rugi daya pada pembangkit.
+	2. Mengurangi drop tegangan pada ujung transmisi
+	3. Menghemat biaya kabel konduktor.
+Berikut macam-macam besar tegangan pada saluran listrik udara.
+	1. SUTET: 200 kV – 500 kV 
+	2. SUTT : 30 Kv – 150 kV
+	3. SUTM : 6 kV – 30 kV
+	4. SUTR	: 40 Volt  - 1000 Volt
+
+B. BAGIAN-BAGIAN UTAMA TRANSFORMATOR
+	1. Inti Besi
+	Pada transformator, inti besi dibuat dari lempengan-lempengan besi tipis yang berisolasi, untuk mengurangi panas (sebagai rugi-rugi besi) yang ditimbulkan oleh “Eddy Current”. Meski begitu, inti trafo sebenarnya bisa dibuat dari berbagai material lainnya termasuk udara. Hanya saja lempeng besi yang disusun dengan cara tertentu adalah material yang paling banyak digunakan. Inti besi memiliki fungsi untuk memudahkan jalannya medan magnet atau flux yang muncul ketika kumparan atau coil dialiri arus listrik. Keunggulan penggunaan inti besi adalah agar transformator tidak terbakar akibat overheat.
+	2. Kumparan Trafo
+	Kumparan trafo dibagi menjadi dua yakni kumparan sekunder dan kumparan primer yang saling terpisah. Kumparan umumnya dibuat menggunakan kabel tembaga yang diisolasi menggunakan pertinax, karton, maupun material lainnya. Umumnya kawat di kumparan primer berukuran lebih kecil dengan jumlah lilitan lebih banyak, sementara kumparan sekunder memiliki jumlah lilitan lebih sedikit dengan diameter kawat berukuran lebih besar. Kapasitas transformator dipengaruhi oleh ukuran kawat dari diameter kumparannya.
+	3. Minyak Trafo
+	Sebagian besar trafo tenaga, kumparan-kumparan dan intinya direndam dalam minyak trafo, terutama trafo-trafo tenaga yang berkapasitas besar, karena minyak trafo mempunyai sifat sebagai media pemindah panas (di sirkulasi), dan bersifat sebagai isolasi (daya tegangan tembus tinggi), sehingga minyak  trafo tersebut berfungsi sebagai media pendingin dan isolasi.
+	4. Tanki Konservator
+	Tangki konservator adalah tempat penampungan minyak cadangan serta udara atau uap yang berasal dari pemanasan trafo akibat arus beban.
+	5. Bushing
+	Bushing berfungsi untuk menghubungkan kumparan trafo ke jaringan luar. Bushing berupa konduktor yang diselubungi oleh isolator berperan sebagai penyekat konduktor dengan tangki trafo.
+
+C. PERALATAN PEMBANTU PADA TRANSFORMATOR
+	1. Pendingin
+Fungsi pendingin di sini untuk mengurangi kenaikan suhu yang berlebihan yang disebabkan kenaikan suhu yang berlebihan akibat rugi-rugi besi dan rugi-rugi tembaga pada kumparan-kumparan di inti besi.
+Media: udara/gas, minyak, dan air
+Srikulasi: alamiah (natural) atau tekanan/paksaan
+	2. Tap Changer
+	Tap changer merupakan alat pengubah perbandingan transformasi untuk mendapatkan tegangan operasi sisi sekunder yang konstan/stabil (diinginkan) dari tegangan jaringan/sisi primer yang berubah-ubah. Tap changer dapat dilakukan baik dalam keadaan berbeban (on-load) atau dalam keadaan tak berbeban (off load) tergantung pada jenisnya.
+	3. Alat Pernapasan
+	Alat pernapasan pada trafo merupakan alat yang berfungsi untuk menyaring pengaruh naik turun beban trafo maupun suhu diudara luar yaitu bila suhu minyak tinggi maka minyak keluar dari dalam tangki. Sebaliknya apabila suhu minyak turun minyak menyusut maka udara luar masuk kedalam tangki, kedua proses itulah yang disebut pernafasan trafo.
+Peralatan: Tabung berisi minyak dan tabung berisi kristal higros kopis/silikagel
+	4. Pengaman
+	Terdapat beberapa macam relay pengaman pada transformator.
+		> Relay Bucholz
+		Relay ini digunakan untuk mendeteksi dan mengamankan transformator terhadap gangguan di dalam transformator yang menimbulkan gas.
+		> Relay Differensial
+		Relay ini digunakan sebagai pengaman trafo dari gangguan hubung singkat di dalam trafo.
+		> Relay Suhu
+		Relay ini digunakan untuk mengamankan transformator dari kerusakan akibat adanya suhu yang berlebihan. 
+		> Relay Hubung Tanah
+		Relay hubung tanah berfungsi untuk mengamankan transformator dari kerusakan akibat gangguan tanah (Earth faulth).
+		> Relay Beban Lebih
+		Relay ini berfungsi untuk mengamankan transformator dari kerusakan akibat adanya beban (arus) yang melebihi harga tertentu. 
+		> Relay Tekanan Lebih
+		Relay tekanan lebih digunakan sebagai pengaman transformator untuk mendeteksi adanya tekanan-tekanan yang berlebihan akibat gangguan di dalam transformator. 
+
+D. JENIS-JENIS TRANSFORMATOR
+	1. Berdasarkan Letak Kumparan Terhadap Inti
+		> Core Type ( jenis inti) berarti kumparan mengelilingi inti.
+		> Shell Type (jenis shell) berarti kumparan dikelilingi inti.
+	2. Berdasarkan Banyaknya Lilitan Kumparan 
+		> Trafo Step-Up
+		> Trafo Step-Down
+	3. Berdasarkan Pendinginan Transformator
+		> Pendinginan Alami
+			a) Air Natural Cooling (AN)
+			b) Oil Immersed Natural Cooling(ON)
+			c) Oil Immersed Forced-Oil circulation with Natural Cooling (OFN)
+		> Pendinginan Buatan (Udara)
+			a) Oil Immersed Forced-Oil circulation with air-blast cooling (OFB)
+			b) Oil Immersed air blast cooling (OB)
+			c) Air Blast Cooling (AB)
+		> Pendinginan Buatan (Air)
+			a) Oil Immersed Water Cooling (OW)
+			b) Oil Immersed forced-oil-circulation with water cooling (OFW)
+	4. Berdasarkan Konstruksi Inti Transformator
+		> Bentuk L
+		> Bentuk E
+		> Bentuk F
+	5. Berdasarkan Jenis Fasa Tegangan
+		> Trafo 1 fasa
+		> Trafo 3 fasa
+	6. Berdasarkan Kegunaan
+		> Transformator tenaga
+		> Transformator pengaman 
+		> Transformator ukur
+
